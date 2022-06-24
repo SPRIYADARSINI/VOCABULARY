@@ -1,0 +1,21 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: beige;
+}
+h1{
+  background-color:black;
+  color:beige;
+  text-decoration:overline;
+  text-shadow:7px 4px 6px pink;
+  border:5px solid red;
+  box-shadow:5px 2px 4px blueviolet;
+  text-align:center;
+}
+h3{
+  color:blue;
+  transform:rotateX(180deg)}
+img{
+  float:right;
+  margin-top:100px;
+}
